@@ -18,7 +18,7 @@
     "**/node_modules": true
   },
   "foam.edit.linkReferenceDefinitions": "off",
-  "foam.openDailyNote.directory": "journal",
+  "foam.openDailyNote.directory": "notes",
   "foam.openDailyNote.titleFormat": "fullDate",
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
@@ -26,4 +26,5 @@
   "pasteImage.path": "${projectRoot}/attachments",
   "pasteImage.showFilePathConfirmInputBox": true,
   "prettier.singleQuote": false,
+  "foam.files.newNotePath": "currentDir",
 }
